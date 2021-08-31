@@ -6,7 +6,7 @@ namespace csharp_chapter_2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("");
+            Console.WriteLine("hej föredrar du spelet botw eller bleach");
         }
     }
 }
